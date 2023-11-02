@@ -14,5 +14,10 @@ We will be hosting a raffle for users that spend the time to interact and report
 
 ## FAQ
 
-Where is the "Application Commit Hash" In the Bug report template? (https://alpha.ebtc.finance/dapp/borrow)
+- Where do I get SepoliaETH to pay for gas? -  You can get sepoliaETH many ways but one way is through the [Alchemy faucet](https://sepoliafaucet.com/)
+
+- How do I get StEth? (The system's collateral to open CDPs)
+![Top right of the app is a 'claim test stEth' button](claimTestStEth.png)
+
+- Where is the "Application Commit Hash" In the Bug report template? (https://alpha.ebtc.finance/dapp/borrow)
 ![Commit Hash location in bottom right of the screen.](<ApplicationCommitHash.jpg>)
