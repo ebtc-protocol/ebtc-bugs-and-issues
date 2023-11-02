@@ -34,6 +34,7 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
  - Wallet [e.g. metamask, rabby, walletconnect]
+ - Application Commit Hash [e.g. e8266d3 - this value can be found on the bottom right in the borrow tab - see Readme]
 
 **Additional context**
 Add any other context about the problem here.
